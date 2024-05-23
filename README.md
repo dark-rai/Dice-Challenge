@@ -2,7 +2,7 @@
 A simple game using basic JavaScript.
 
 # Overview
-This is a simple dice game created using basic JavaScript, HTML, and CSS. The game involves rolling two dice and determining the winner based on the higher value. Each time the page is refreshed, the dice are rolled again, displaying new values and announcing the winner.
+This is a simple dice game created using basic JavaScript, HTML, and CSS. The game involves rolling two dice and determining the winner based on the higher value. Each time the page is refreshed, the dice are rolled again, displaying new values and announcing the winner. <br><br>
 It can be accessed at https://dark-rai.github.io/Dice-Challenge/
 
 # Features
